@@ -1,0 +1,56 @@
+{
+    "proportions": {
+        "width": 936,
+        "height": 1210,
+        "aspect_ratio": "936:1210"
+    },
+    "color_palette": {
+        "dominant_colors": [
+            [
+                142,
+                144,
+                152
+            ],
+            [
+                37,
+                41,
+                64
+            ],
+            [
+                199,
+                192,
+                193
+            ],
+            [
+                19,
+                72,
+                129
+            ],
+            [
+                100,
+                103,
+                116
+            ]
+        ],
+        "color_distribution": [
+            42.14,
+            9.32,
+            6.57,
+            16.56,
+            25.41
+        ]
+    },
+    "textures": {
+        "contrast": 189.4306,
+        "energy": 0.021,
+        "homogeneity": 0.2284
+    },
+    "composition": {
+        "edge_density": 0.0345,
+        "saliency_hotspots": 0.1379999965429306
+    },
+    "key_features": {
+        "brushstroke_style": "high",
+        "distortion_level": "low"
+    }
+}
